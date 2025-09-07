@@ -1,0 +1,59 @@
+<html>
+<title>RESUME</title>
+<font color=black size=4 face=calibri>
+<h1><img src=resumepic.png width=100 height 100>COLEEN MAE G. SALVADOR</h1>
+<hr width=5000 size=2>
+Morning Breeze Subdivision • Caloocan City, Metro Manila <br> 
+salvadorcoleenmae@gmail.com • 09953736782
+<br>
+<br>
+<i>An aspiring creative freelance worker who is in need of experience to build up a portfolio. Up to volunteer in various fields to broaden my horizon to further my knowledge for future needs.</i>
+
+<br>
+<br>
+<h1>EDUCATION</h1>
+<font size=5><b>Manila Central University</b></font>
+<br>
+<b>Bachelor of Science in Entertainment and Multimedia Computing</b>
+<br>
+2025 - Present
+<br>
+<br>
+<b><font size=5>Manila Central University </font>
+<br>
+General Academic Strand</b>
+<br>
+2021 - 2024
+<br>
+<i>With Honors</i>
+<br>
+<br>
+<h1>EXPERIENCE </h1>
+<b><font size=5>Volunteer Worker</font></b>
+<br>
+<i><b>Sambahan ng Pamilyang Cristiano</b>
+<br>
+April 2025 - Present </i>
+<br>
+> Assistant teacher towards children
+<br>
+> Participating in sharing ideas
+<br>
+> Organizer of files and materials
+<br>
+> Takes initiative when in need
+<br>
+<br>
+<h1>SKILLS </h1>
+Proficient in Microsoft apps (Word, Excel, Powerpoint)
+<br>
+Experienced in Adobe After Effects
+<br>
+Video Editing
+<br>
+Concept Illustration
+<br>
+Children Caretaker
+
+
+</html>
